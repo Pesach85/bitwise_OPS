@@ -1,0 +1,5 @@
+﻿  Origine.cpp
+C:\Users\Utente\source\repos\bitwise_OPS\Origine.cpp(72,35): warning C4244: '=': conversione da 'uint64_t' a 'uint8_t'. Possibile perdita di dati.
+C:\Users\Utente\source\repos\bitwise_OPS\Origine.cpp(99,35): warning C4244: '=': conversione da 'uint64_t' a 'uint16_t'. Possibile perdita di dati.
+C:\Users\Utente\source\repos\bitwise_OPS\Origine.cpp(126,35): warning C4244: '=': conversione da 'uint64_t' a 'uint32_t'. Possibile perdita di dati.
+  bitwise_OPS.vcxproj -> C:\Users\Utente\source\repos\bitwise_OPS\Debug\bitwise_OPS.exe
